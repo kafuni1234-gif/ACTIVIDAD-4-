@@ -1,12 +1,11 @@
-\# Análisis de las emisiones mundiales de CO₂ mediante regresión lineal
+Análisis de las emisiones mundiales de CO₂ mediante regresión lineal
+
+
+Descripción del proyecto
 
 
 
-\## Descripción del proyecto
-
-
-
-Este proyecto académico tiene como finalidad analizar la evolución de las emisiones mundiales de dióxido de carbono (CO₂) a través de los datos disponibles en la plataforma \*\*Our World in Data\*\*.
+Este proyecto académico tiene como finalidad analizar la evolución de las emisiones mundiales de dióxido de carbono (CO₂) a través de los datos disponibles en la plataforma \*Our World in Data\*.
 
 
 
@@ -14,7 +13,7 @@ Mediante herramientas de programación en Python, se realizará un proceso de ex
 
 
 
-\## Objetivo general
+Objetivo general
 
 
 
@@ -22,33 +21,33 @@ Analizar la evolución de las emisiones mundiales de CO₂ mediante técnicas de
 
 
 
-\## Herramientas utilizadas
+Herramientas utilizadas
 
 
 
-\- \*\*Python:\*\* lenguaje de programación utilizado para el desarrollo del proyecto.
+Python: lenguaje de programación utilizado para el desarrollo del proyecto.
 
-\- \*\*Jupyter Notebook:\*\* entorno para ejecutar y documentar el código.
+Jupyter Notebook: entorno para ejecutar y documentar el código.
 
-\- \*\*Google Colab:\*\* alternativa para ejecutar los notebooks en línea.
+Google Colab: alternativa para ejecutar los notebooks en línea.
 
-\- \*\*Pandas:\*\* limpieza, organización y manipulación de datos.
+*Pandas: limpieza, organización y manipulación de datos.
 
-\- \*\*NumPy:\*\* operaciones numéricas.
+NumPy: operaciones numéricas.
 
-\- \*\*Matplotlib y Seaborn:\*\* elaboración de gráficos y visualizaciones.
+Matplotlib y Seaborn: elaboración de gráficos y visualizaciones.
 
-\- \*\*Scikit-learn:\*\* construcción y evaluación del modelo de regresión lineal.
+Scikit-learn: construcción y evaluación del modelo de regresión lineal.
 
-\- \*\*GitHub:\*\* almacenamiento y colaboración en el proyecto.
-
-
-
-\## Fuente de información
+GitHub: almacenamiento y colaboración en el proyecto.
 
 
 
-Los datos utilizados provienen de \*\*Our World in Data\*\*, una plataforma que recopila y presenta información estadística sobre diferentes problemáticas mundiales.
+Fuente de información
+
+
+
+Los datos utilizados provienen de Our World in Data, una plataforma que recopila y presenta información estadística sobre diferentes problemáticas mundiales.
 
 
 
@@ -56,13 +55,13 @@ Se trabajará con la sección de emisiones de CO₂, específicamente con los da
 
 
 
-\- Página principal: https://ourworldindata.org/co2-emissions
+Página principal: https://ourworldindata.org/co2-emissions
 
-\- Datos de emisiones anuales: https://ourworldindata.org/grapher/annual-co2-emissions-per-country
+Datos de emisiones anuales: https://ourworldindata.org/grapher/annual-co2-emissions-per-country
 
 
 
-\## Organización del proyecto
+Organización del proyecto
 
 
 
@@ -86,7 +85,7 @@ Adicionalmente, se incluye una carpeta para almacenar los datos utilizados y fac
 
 
 
-\## Metodología
+Metodología
 
 
 
@@ -94,19 +93,19 @@ El desarrollo del proyecto comprende las siguientes etapas:
 
 
 
-1\. \*\*Selección de los datos:\*\* identificación y descarga de la información sobre emisiones mundiales de CO₂.
+1\. Selección de los datos: identificación y descarga de la información sobre emisiones mundiales de CO₂.
 
-2\. \*\*Exploración y limpieza:\*\* revisión de la estructura de los datos, identificación de valores faltantes y organización de la información.
+2\. Exploración y limpieza: revisión de la estructura de los datos, identificación de valores faltantes y organización de la información.
 
-3\. \*\*Análisis y visualización:\*\* elaboración de gráficos para identificar tendencias y cambios en las emisiones a través del tiempo.
+3\. Análisis y visualización: elaboración de gráficos para identificar tendencias y cambios en las emisiones a través del tiempo.
 
-4\. \*\*Regresión lineal:\*\* implementación de un modelo matemático utilizando el año como variable independiente y las emisiones de CO₂ como variable dependiente.
+4\. Regresión lineal: implementación de un modelo matemático utilizando el año como variable independiente y las emisiones de CO₂ como variable dependiente.
 
-5\. \*\*Evaluación e interpretación:\*\* análisis de las métricas del modelo y explicación de los resultados obtenidos.
+5\. Evaluación e interpretación: análisis de las métricas del modelo y explicación de los resultados obtenidos.
 
 
 
-\## Resultados esperados
+Resultados esperados
 
 
 
@@ -122,7 +121,7 @@ El desarrollo del proyecto comprende las siguientes etapas:
 
 
 
-\## Integrantes
+Integrantes
 
 
 
@@ -134,7 +133,7 @@ El desarrollo del proyecto comprende las siguientes etapas:
 
 
 
-\## Consideraciones
+Consideraciones
 
 
 
@@ -146,7 +145,7 @@ El modelo de regresión lineal representa una aproximación estadística de la t
 
 
 
-\## Licencia y uso de los datos
+Licencia y uso de los datos
 
 
 
